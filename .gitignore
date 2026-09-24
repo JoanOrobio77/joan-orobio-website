@@ -1,0 +1,24 @@
+# Dependencias / sistema
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos temporales / respaldo
+_resume_extract/
+_resume.zip
+_resume_text.txt
+*.tmp
+
+# OneDrive / editor
+.cursor/
+agent-tools/
+
+# Opcional: CV local (no hace falta en el sitio)
+MachineLearningResume-Joan_Orobio-Spanish.docx
+
+# Fotos originales de respaldo (el sitio usa las versiones finales)
+site/assets/*-original.png
+site/assets/image copy.png
+site/assets/image copy 4.png
+img/
