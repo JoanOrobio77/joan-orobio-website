@@ -1,5 +1,6 @@
 # Dependencias / sistema
 node_modules/
+_imgtools/
 .DS_Store
 Thumbs.db
 *.log
@@ -19,6 +20,7 @@ MachineLearningResume-Joan_Orobio-Spanish.docx
 
 # Fotos originales de respaldo (el sitio usa las versiones finales)
 site/assets/*-original.png
+site/assets/*-backup.png
 site/assets/image copy.png
 site/assets/image copy 4.png
 img/
