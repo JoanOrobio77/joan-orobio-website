@@ -544,6 +544,44 @@ a {
   gap: 1rem;
 }
 
+.seo-bonus {
+  margin-top: clamp(1.75rem, 4vw, 2.5rem);
+  padding: 1.35rem 1.4rem;
+  border-radius: var(--radius);
+  border: 1px dashed rgba(31, 111, 255, 0.35);
+  background: rgba(255, 255, 255, 0.55);
+  max-width: 46rem;
+}
+
+.seo-bonus-label {
+  margin: 0 0 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--blue);
+}
+
+.seo-bonus-title {
+  margin: 0 0 0.5rem;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.seo-bonus p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.seo-bonus-note {
+  margin-top: 0.65rem !important;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--navy) !important;
+}
+
 .plan {
   display: flex;
   flex-direction: column;

@@ -120,6 +120,11 @@ const translations = {
     plan3Ex3: "Soporte o mantenimiento mes a mes ilimitado",
     plan3Ex4: "Marketing, ads o gestión de redes",
     quoteWhatsapp: "Cotizar por WhatsApp",
+    seoBonusLabel: "Bono incluido",
+    seoBonusTitle: "Posicionamiento en Google",
+    seoBonusText:
+      "Como bono, en los sitios y aplicaciones web que desarrollo te ayudo con el posicionamiento para que puedan aparecer en Google.",
+    seoBonusNote: "Nota: el posicionamiento puede tardar semanas.",
     contactEyebrow: "Contacto",
     contactTitle: "Hablemos de tu próximo proyecto",
     contactLead:
@@ -254,6 +259,11 @@ const translations = {
     plan3Ex3: "Unlimited month-to-month support or maintenance",
     plan3Ex4: "Marketing, ads, or social media management",
     quoteWhatsapp: "Quote on WhatsApp",
+    seoBonusLabel: "Bonus included",
+    seoBonusTitle: "Google positioning",
+    seoBonusText:
+      "As a bonus, for the websites and web apps I build I also help with positioning so they can appear on Google.",
+    seoBonusNote: "Note: positioning can take weeks.",
     contactEyebrow: "Contact",
     contactTitle: "Let's talk about your next project",
     contactLead:
