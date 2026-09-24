@@ -466,10 +466,14 @@ a {
   color: var(--ink);
 }
 
-.now-working > p {
+.now-working > p:not(.now-working-label):not(.project-note) {
   margin: 0 0 0.75rem;
   color: var(--muted);
   max-width: 48rem;
+}
+
+.now-working-label {
+  color: #ffffff;
 }
 
 .now-working .chips {
